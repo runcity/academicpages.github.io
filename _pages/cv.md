@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.S. in Business Analytics, University of Texas at Dallas, Aug 2016 -- May 2018
+* B.A. in Washington State University, Pullman WA, Jan 2010 -- May 2014
 
-Work experience
+Professional Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
