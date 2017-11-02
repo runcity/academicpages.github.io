@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ======
+* University of Texas at Dallas,   Aug 2016 -- May 2018
+  * M.S. in Business Analytics, 
 * M.S. in Business Analytics, University of Texas at Dallas, Aug 2016 -- May 2018
 * B.A. in Washington State University, Pullman WA, Jan 2010 -- May 2014
 
